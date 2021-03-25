@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Fazes/Menu.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/homeInside.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/home.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/homeToField1.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/field1.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/field1Quest1.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/field2.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/field3.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/field2ToLure.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/deadZone1.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/SallundriHouse.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/saidaCityLeaf.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/cemitery.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/lureField4.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/lureLake.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/village.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/lureField3.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/lureField2.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/cityEnterLeaf.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/toLureBif1.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/beach/beach1.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/beach/beachWater.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/beach/beachWaterEsquerda.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/beach/beachWaterEsquerda1.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/beach/beachWaterEsquerda2.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/beach/beachWaterEsquerdaPier.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/montain/initCanion.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/montain/saidaVillageSperior.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/CREATIONSCENE.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/MAPAMUNDI.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/caveForestInit.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/caveForestCenter.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/caveForestCorridor.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/caveForestCorridor2.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/spiderForestNest.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/MISSIONS/ajudaNaFazenda1.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/cosmus corridors/cosmusCorridorInit.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/cosmus corridors/cosmusCorridorEsquerda.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/cosmus corridors/cosmusCenterEsquerda.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/mind inside/mind1.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/wayToSanctuary.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/wayToSanctuary2.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/sanctuary.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/sanctuaryDown.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/sanctuaryMain.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Fazes/leaf village/sanctuaryCorridor.unity
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

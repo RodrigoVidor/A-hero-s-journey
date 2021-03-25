@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1325035296350002
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4656450794851432}
+  - component: {fileID: 33828706719557014}
+  - component: {fileID: 23395761743420182}
+  - component: {fileID: 114627046286398458}
+  m_Layer: 0
+  m_Name: DragonToothSword
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4656450794851432
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1325035296350002}
+  m_LocalRotation: {x: -0.05577488, y: -0.32227898, z: -0.16733007, w: 0.93006784}
+  m_LocalPosition: {x: -0.0163, y: -0.0134, z: 0.0195}
+  m_LocalScale: {x: 1.2, y: 1.7, z: 1.2}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -372.216, y: -36.461002, z: 343.639}
+--- !u!33 &33828706719557014
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1325035296350002}
+  m_Mesh: {fileID: 4300002, guid: 2ad4127c10a002f4ea72e91b5bf21185, type: 3}
+--- !u!23 &23395761743420182
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1325035296350002}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a44dcad8b441a154c83635df9154ae58, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!114 &114627046286398458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1325035296350002}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26a72de6da0d5a04c96fc30a62a7f6c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spriteDessaArma: {fileID: 21300000, guid: c21cfae4654aa85409481fa4e8f05e2c, type: 3}
+  spriteButton: {fileID: 21300000, guid: 9836853b372a58b4eb2f5d5ed1f3415b, type: 3}
+  atkSpeed: 0
+  strAdd: 2
+  vitAdd: 0.5
+  magAdd: 0.7
+  porcRecuperacao: 0
+  vidaOuMana: 0
+  efeitoArma: {fileID: 1077591432289960, guid: 19cca129942399940875c94573609a24, type: 3}
+  nomeItem: 
+  descricao: 
+  questItem: 0

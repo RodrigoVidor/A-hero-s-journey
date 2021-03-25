@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 2ad4127c10a002f4ea72e91b5bf21185
+timeCreated: 1513724350
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: FullBodyIK
+    100006: FullBodyIK (2)
+    100008: Goal
+    100010: Goal (2)
+    100012: Group Locator
+    100014: Knight
+    100016: Lamp
+    100018: Locator
+    100020: Locator_Leg_L
+    100022: Locator_Leg_R
+    100024: Root
+    100026: Shadow
+    100028: Skeleton_Arm_L
+    100030: Skeleton_Arm_R
+    100032: Skeleton_Foot_L
+    100034: Skeleton_Foot_L_end
+    100036: Skeleton_Foot_R
+    100038: Skeleton_Foot_R_end
+    100040: Skeleton_ForeArm_L
+    100042: Skeleton_ForeArm_R
+    100044: Skeleton_Hand_L
+    100046: Skeleton_Hand_L_end
+    100048: Skeleton_Hand_R
+    100050: Skeleton_Hand_R_end
+    100052: Skeleton_Head
+    100054: Skeleton_Head_end
+    100056: Skeleton_Leg_L
+    100058: Skeleton_Leg_R
+    100060: Skeleton_Root
+    100062: Skeleton_Spine01
+    100064: Skeleton_Spine02
+    100066: Skeleton_UpperLeg_L
+    100068: Skeleton_UpperLeg_R
+    100070: Sword02
+    100072: Texture Group
+    100074: UpVector_Leg_L
+    100076: UpVector_Leg_R
+    100078: Camera.001
+    100080: Lamp.001
+    100082: Skeleton_Foot_L_end_end
+    100084: Skeleton_Foot_R_end_end
+    100086: Skeleton_Hand_L_end_end
+    100088: Skeleton_Hand_R_end_end
+    100090: Skeleton_Head_end_end
+    400000: Camera
+    400002: //RootNode
+    400004: FullBodyIK
+    400006: FullBodyIK (2)
+    400008: Goal
+    400010: Goal (2)
+    400012: Group Locator
+    400014: Knight
+    400016: Lamp
+    400018: Locator
+    400020: Locator_Leg_L
+    400022: Locator_Leg_R
+    400024: Root
+    400026: Shadow
+    400028: Skeleton_Arm_L
+    400030: Skeleton_Arm_R
+    400032: Skeleton_Foot_L
+    400034: Skeleton_Foot_L_end
+    400036: Skeleton_Foot_R
+    400038: Skeleton_Foot_R_end
+    400040: Skeleton_ForeArm_L
+    400042: Skeleton_ForeArm_R
+    400044: Skeleton_Hand_L
+    400046: Skeleton_Hand_L_end
+    400048: Skeleton_Hand_R
+    400050: Skeleton_Hand_R_end
+    400052: Skeleton_Head
+    400054: Skeleton_Head_end
+    400056: Skeleton_Leg_L
+    400058: Skeleton_Leg_R
+    400060: Skeleton_Root
+    400062: Skeleton_Spine01
+    400064: Skeleton_Spine02
+    400066: Skeleton_UpperLeg_L
+    400068: Skeleton_UpperLeg_R
+    400070: Sword02
+    400072: Texture Group
+    400074: UpVector_Leg_L
+    400076: UpVector_Leg_R
+    400078: Camera.001
+    400080: Lamp.001
+    400082: Skeleton_Foot_L_end_end
+    400084: Skeleton_Foot_R_end_end
+    400086: Skeleton_Hand_L_end_end
+    400088: Skeleton_Hand_R_end_end
+    400090: Skeleton_Head_end_end
+    2300000: Shadow
+    3300000: Shadow
+    4300000: Shadow
+    4300002: Sword02
+    4300004: Knight
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Knight
+    13700002: Sword02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

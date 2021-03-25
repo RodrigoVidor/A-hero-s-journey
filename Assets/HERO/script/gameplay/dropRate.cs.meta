@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ef25c61dcc3faea42a3555c3a79ae688
+timeCreated: 1520100600
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - goldObj: {fileID: 1317897559182658, guid: d77ade21b0e687a4aa30eee6eaece082, type: 2}
+  - itemObjComum: {fileID: 1547530634911884, guid: 6da4a0b574f91c141abe01bf77afc63c,
+      type: 2}
+  - itemObjRaro: {fileID: 1547530634911884, guid: 6da4a0b574f91c141abe01bf77afc63c,
+      type: 2}
+  - manaObj: {fileID: 1766194416437748, guid: c0e4a100e80ae4043a46997ff3df560d, type: 2}
+  - vidaObj: {fileID: 1355500442689578, guid: 5dced20bb10124f47a05519faac3a264, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
